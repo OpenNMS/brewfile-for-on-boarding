@@ -1,11 +1,18 @@
-Use HomeBrew Bundle to add prerequisites
+# Use HomeBrew Bundle to add prerequisites
 
-Install HomeBrew
-
+## Install HomeBrew
+```
 $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-
+```
+## Install Git
+```
 $ brew install git
-
+```
+## Clone this repository
+```
 $ git clone [THIS_REPO]
-
+```
+## Use HomeBrew to install the brewfile
+```
 $ brew bundle install
+```
