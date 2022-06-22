@@ -14,5 +14,6 @@ $ git clone [THIS_REPO]
 ```
 ## Use HomeBrew to install the brewfile
 ```
+$ cd brewfile-for-on-boarding
 $ brew bundle install
 ```
